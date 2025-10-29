@@ -26,17 +26,17 @@
 
 ---
 
-## 🌟 Today's Lesson — Day 01: Internet (example)
+## 🌟 Let'Start Deep Dive ✈️
 <div style="display:flex;gap:20px;flex-wrap:wrap;justify-content:center">
 
 <!-- card -->
 <div style="border-radius:12px;padding:14px;max-width:820px;border:1px solid #fb6900ff;">
-  <h2 style="margin-top:4px;color:#00a8ff">🌐 Day 01 — Internet</h2>
+  <h2 style="margin-top:4px;color:#00a8ff">🌐 Day wise </h2>
 
   <table style="width:100%;border-collapse:collapse;">
     <thead>
       <tr style="background:#fafafa">
-        <th style="padding:8px;text-align:left">📘 Subtopic</th>
+        <th style="padding:8px;text-align:left">📘 Day's</th>
         <th style="padding:8px;text-align:left">🧠 Comcepts</th>
         <th style="padding:8px;text-align:left">🧪 Projects</th>
         <th style="padding:8px;text-align:left">📚 Resources</th>

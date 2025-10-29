@@ -21,6 +21,9 @@
     
 Type This commands On Terminal
 
+
+# 👿 Alway ProjectName in Small 🔤 
+
 ```bash
 npm create vite@latest <project_name> -- --template svelte
 
